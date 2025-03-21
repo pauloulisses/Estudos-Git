@@ -1,2 +1,2 @@
 # Estudos-Git
-Estrudos Git e GitHub
+Estudos Git e GitHub
